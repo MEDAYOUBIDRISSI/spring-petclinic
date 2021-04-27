@@ -25,6 +25,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Dave Syer
  *
  */
+
+
 @SpringBootApplication(proxyBeanMethods = false)
 public class PetClinicApplication {
 
